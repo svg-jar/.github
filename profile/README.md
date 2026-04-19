@@ -13,8 +13,6 @@ SVG Jar is a collection of tools for working with SVG files on the web. It provi
 
 ## Packages
 
-This is a pnpm monorepo with the following packages:
-
 ### [@svg-jar/plugin](https://github.com/svg-jar/plugin)
 
 **Status: In development**
