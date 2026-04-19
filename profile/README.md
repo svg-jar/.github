@@ -25,12 +25,7 @@ See the [plugin README](https://github.com/svg-jar/plugin/blob/main/plugin/READM
 
 **Status: In development**
 
-A CLI codemod that migrates Ember projects from [`ember-svg-jar`](https://github.com/evoactivity/ember-svg-jar) to direct SVG component imports. It automatically:
-
-- Finds all `{{svgJar "..."}}` calls in `.gjs`/`.gts` templates
-- Locates each SVG file in your configured source directories
-- Replaces mustache helpers with angle-bracket `<Component />` invocations
-- Adds the correct import statements with relative or aliased paths
+A CLI codemod that migrates Ember projects from [`ember-svg-jar`](https://github.com/evoactivity/ember-svg-jar) to direct SVG component imports.
 
 ```sh
 pnpm dlx @svg-jar/codemod
