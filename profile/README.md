@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svg-jar/plugin/main/logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svg-jar/plugin/main/logo-light.svg">
-  <img alt="SvgJar" src="https://raw.githubusercontent.com/svg-jar/plugin/main/logo-light.svg" width="300">
+  <img alt="SvgJar" src="https://raw.githubusercontent.com/svg-jar/plugin/main/logo-light.svg" width="300" height="201">
 </picture>
 
 # SVG Jar
@@ -21,6 +21,8 @@ An [unplugin](https://github.com/unjs/unplugin) for importing SVGs as components
 
 See the [plugin README](https://github.com/svg-jar/plugin/blob/main/plugin/README.md) for full documentation.
 
+---
+
 ### [@svg-jar/codemod](https://github.com/svg-jar/codemod)
 
 **Status: In development**
@@ -32,6 +34,8 @@ pnpm dlx @svg-jar/codemod
 ```
 
 See the [codemod README](https://github.com/svg-jar/codemod/blob/main/README.md) for full documentation.
+
+---
 
 ### [@svg-jar/browser](https://github.com/svg-jar/browser)
 
